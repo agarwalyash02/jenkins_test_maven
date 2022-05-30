@@ -1,3 +1,3 @@
 libraries{
-   npm
+   search-service
 }
