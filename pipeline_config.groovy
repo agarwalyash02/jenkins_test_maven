@@ -1,3 +1,3 @@
 libraries{
-   search-service
+   search
 }
